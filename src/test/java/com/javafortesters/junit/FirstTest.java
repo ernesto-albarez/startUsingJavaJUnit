@@ -19,7 +19,7 @@ public class FirstTest {
     }
 
     @Test
-    public void firefoxIsSuportedByWebDriver(){
+    public void firefoxIsSupportedByWebDriver(){
         WebDriver driver = new FirefoxDriver();
 
         driver.get("http://www.compendiumdev.co.uk/selenium");
